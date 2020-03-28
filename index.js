@@ -1,3 +1,3 @@
 console.log("Oh, yeah!")
 console.error("Oh, noOoOo!")
-conosole.warn("Don't feed the animals")
+console.warn("Don't feed the animals")
